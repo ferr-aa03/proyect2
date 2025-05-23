@@ -118,3 +118,4 @@ void regisAdopt(struct cola *adoptantes)
 }
 
 //CAMBIOS:
+//Hola?
